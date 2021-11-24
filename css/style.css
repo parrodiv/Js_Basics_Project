@@ -1,0 +1,29 @@
+/*Elements style*/
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: url(../img/background.jpg);
+    background-attachment: fixed;
+}
+
+
+/*Classes style*/
+.btn {
+    line-height: 34px;
+    font-size: 20px;
+    transition: 0.2s;
+}
+.btn:hover{
+    font-size:23px;
+    opacity: 0.2;
+    border-color:#fff;
+}
+.vertical-center{
+    min-height:100vh;
+    display: flex;
+    align-items:center;
+}
+
+/*ID style*/
+#number{
+    font-size: 8rem;
+}
