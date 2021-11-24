@@ -16,6 +16,10 @@ body {
     font-size:23px;
     opacity: 0.2;
     border-color:#fff;
+    color: #fff;
+}
+.fa-minus-circle, .fa-plus-circle{
+    pointer-events: none;
 }
 .vertical-center{
     min-height:100vh;
