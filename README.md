@@ -7,7 +7,9 @@ il tasto + aumenta di un'unità.
 PS: se clicchi sul tasto meno quando c'è il numero 0, il numero non diminuirà.
 
 # Aspetto
+<div align='center'>
 <img src='img/schermata_counter_app.png' width='600' height= 'auto'>
+</div>
 
 # Installazione
 Per aprire l'app apri il terminale, individua il percorso che preferisci  ed inserisci questo comando:
