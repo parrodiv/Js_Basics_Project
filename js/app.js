@@ -45,9 +45,10 @@ buttons.forEach(function(button){
 })
 
 let counter = 0
+
 function counterUpdate(e){
     if (e.target.classList.contains('decremento')){
-        counter--;
+        counter <= 1 ? counter = 0 : counter--;
     }
     else if (e.target.classList.contains('incremento')){
         counter++;
@@ -57,8 +58,9 @@ function counterUpdate(e){
     };
     numberUpdate();
 }
-function numberUpdate(){
-    number.innerHTML = `${counter}`;
+
+function numberUpdate() {
+    number.innerHTML = counter;
 }
 
 
