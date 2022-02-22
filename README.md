@@ -12,5 +12,5 @@ PS: se clicchi sul tasto meno quando c'è il numero 0, il numero non diminuirà.
 </div>
 
 # Installazione
-Per aprire l'app apri il terminale, individua il percorso che preferisci  ed inserisci questo comando:
+Per aprire l'app apri il terminale, individua il percorso che preferisci  ed inserisci questo comando: <br>
 `git clone https://github.com/parrodiv/Js_Basics_Project.git`
